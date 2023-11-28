@@ -1,0 +1,14 @@
+D:\Павел\Desktop\GeekBrains\Home_work\Знакомство с языками программирования (семинары)\Function\Task_03\bin\Debug\net8.0\Task_03.exe
+D:\Павел\Desktop\GeekBrains\Home_work\Знакомство с языками программирования (семинары)\Function\Task_03\bin\Debug\net8.0\Task_03.deps.json
+D:\Павел\Desktop\GeekBrains\Home_work\Знакомство с языками программирования (семинары)\Function\Task_03\bin\Debug\net8.0\Task_03.runtimeconfig.json
+D:\Павел\Desktop\GeekBrains\Home_work\Знакомство с языками программирования (семинары)\Function\Task_03\bin\Debug\net8.0\Task_03.dll
+D:\Павел\Desktop\GeekBrains\Home_work\Знакомство с языками программирования (семинары)\Function\Task_03\bin\Debug\net8.0\Task_03.pdb
+D:\Павел\Desktop\GeekBrains\Home_work\Знакомство с языками программирования (семинары)\Function\Task_03\obj\Debug\net8.0\Task_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Павел\Desktop\GeekBrains\Home_work\Знакомство с языками программирования (семинары)\Function\Task_03\obj\Debug\net8.0\Task_03.AssemblyInfoInputs.cache
+D:\Павел\Desktop\GeekBrains\Home_work\Знакомство с языками программирования (семинары)\Function\Task_03\obj\Debug\net8.0\Task_03.AssemblyInfo.cs
+D:\Павел\Desktop\GeekBrains\Home_work\Знакомство с языками программирования (семинары)\Function\Task_03\obj\Debug\net8.0\Task_03.csproj.CoreCompileInputs.cache
+D:\Павел\Desktop\GeekBrains\Home_work\Знакомство с языками программирования (семинары)\Function\Task_03\obj\Debug\net8.0\Task_03.dll
+D:\Павел\Desktop\GeekBrains\Home_work\Знакомство с языками программирования (семинары)\Function\Task_03\obj\Debug\net8.0\refint\Task_03.dll
+D:\Павел\Desktop\GeekBrains\Home_work\Знакомство с языками программирования (семинары)\Function\Task_03\obj\Debug\net8.0\Task_03.pdb
+D:\Павел\Desktop\GeekBrains\Home_work\Знакомство с языками программирования (семинары)\Function\Task_03\obj\Debug\net8.0\Task_03.genruntimeconfig.cache
+D:\Павел\Desktop\GeekBrains\Home_work\Знакомство с языками программирования (семинары)\Function\Task_03\obj\Debug\net8.0\ref\Task_03.dll
